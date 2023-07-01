@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Navbar Component
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+- Basic navbar created with reactjs
+
+![Navbar](https://raw.githubusercontent.com/n1ghtx0w1/navbar-component/main/public/navbar-component.png)
 
 ## Available Scripts
 
