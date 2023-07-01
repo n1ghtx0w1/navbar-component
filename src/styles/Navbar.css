@@ -1,0 +1,47 @@
+.navbar {
+  background-color: black;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: flex-end;
+  height: 75px;
+  position: relative;
+}
+
+.navbar .nav-brand {
+  color: white;
+  font-size: 24px;
+  text-transform: uppercase;
+  position: absolute; 
+  left: 10px; 
+  top: 50%; 
+  transform: translateY(-50%); 
+  padding: 10px;
+}
+
+.navbar a {
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  display: flex; 
+  align-items: center; 
+  font-size: 18px; 
+  margin: 15px;
+}
+
+.navbar a:hover {
+  background-color: white;
+  border-radius: 25px;
+  color: black; 
+  position: relative;
+  margin: 15px;
+}
+
+.navbar a:hover span {
+  color: black;
+}
+
+.navbar a span {
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 50px;
+}
