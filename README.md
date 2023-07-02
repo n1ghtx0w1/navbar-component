@@ -4,11 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - Basic navbar created with reactjs
 
-![Navbar](https://raw.githubusercontent.com/n1ghtx0w1/navbar-component/main/public/navbar-component.png)
+![Navbar](https://raw.githubusercontent.com/n1ghtx0w1/navbar-component/main/public/navbar-newfont.png)
 
 ## Updated
 
 - Added responsive hamburger menu
+- Changed font
 
 ![Hamburger](https://raw.githubusercontent.com/n1ghtx0w1/navbar-component/main/public/hamburger-response.png)
 
