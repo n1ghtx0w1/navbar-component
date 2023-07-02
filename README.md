@@ -6,13 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![Navbar](https://raw.githubusercontent.com/n1ghtx0w1/navbar-component/main/public/navbar-component.png)
 
-## Updates
+## Updated
 
 - Added responsive hamburger menu
 
-![Navbar](https://raw.githubusercontent.com/n1ghtx0w1/navbar-component/main/public/navbar-component.png)
+![Hamburger](https://raw.githubusercontent.com/n1ghtx0w1/navbar-component/main/public/hamburger-response.png)
 
-![Navbar](https://raw.githubusercontent.com/n1ghtx0w1/navbar-component/main/public/navbar-component.png)
+![Menu](https://raw.githubusercontent.com/n1ghtx0w1/navbar-component/main/public/hamburger-response-open.png)
 
 ## Available Scripts
 
