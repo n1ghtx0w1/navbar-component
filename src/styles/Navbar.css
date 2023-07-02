@@ -3,8 +3,8 @@
   background-color: black;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   display: flex;
-  justify-content: space-between; /* Adjust the alignment */
-  align-items: center; /* Center items vertically */
+  justify-content: space-between; 
+  align-items: center; 
   height: 75px;
   padding: 0 20px;
 }
