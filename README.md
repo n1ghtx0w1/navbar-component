@@ -6,6 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![Navbar](https://raw.githubusercontent.com/n1ghtx0w1/navbar-component/main/public/navbar-component.png)
 
+## Updates
+
+- Added responsive hamburger menu
+
+![Navbar](https://raw.githubusercontent.com/n1ghtx0w1/navbar-component/main/public/navbar-component.png)
+
+![Navbar](https://raw.githubusercontent.com/n1ghtx0w1/navbar-component/main/public/navbar-component.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
